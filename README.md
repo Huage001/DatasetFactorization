@@ -6,7 +6,7 @@ This is the pytorch implementation of the following NeurIPS 2022 paper:
 
 *Songhua Liu, Kai Wang, Xingyi Yang, Jingwen Ye, and Xinchao Wang.*
 
-<img src="https://github.com/Huage001/DatasetFactorization/blob/main/teaser.png" width="500px"/>
+<img src="https://github.com/Huage001/DatasetFactorization/blob/main/teaser.png" width="1024px"/>
 
 ## Installation
 
