@@ -1,0 +1,6 @@
+torch
+torchvision
+kornia
+scipy
+tqdm
+wandb

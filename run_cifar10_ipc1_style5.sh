@@ -1,0 +1,21 @@
+python distill_fac.py \
+--dataset=CIFAR10 \
+--ipc=3 \
+--single_channel \
+--n_style=5 \
+--syn_steps=50 \
+--expert_epochs=2 \
+--max_start_epoch=2 \
+--zca \
+--lr_img=100 \
+--lr_lr=1e-7 \
+--pix_init real \
+--lr_teacher=0.01 \
+--buffer_path={path_to_buffer_storage} \
+--data_path={path_to_dataset} \
+--lr_style 100 \
+--lambda_club_content 0.1 \
+--lambda_contrast_content 0.1 \
+--lambda_cls_content 1. \
+--lambda_likeli_content 0.1 
+
