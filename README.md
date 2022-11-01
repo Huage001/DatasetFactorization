@@ -62,7 +62,7 @@ This code borrows heavily from [mtt-distillation](https://github.com/GeorgeCazen
 If you find this project useful in your research, please consider cite our paper and [the default baseline method](https://arxiv.org/abs/2203.11932):
 
 ```latex
-@article{yang2022dery,
+@article{liu2022dataset,
     author    = {Songhua Liu, Kai Wang, Xingyi Yang, Jingwen Ye, Xinchao Wang},
     title     = {Dataset Distillation via Factorization},
     journal   = {NeurIPS},
