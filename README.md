@@ -2,7 +2,7 @@
 
 This is the pytorch implementation of the following NeurIPS 2022 paper:
 
-**Dataset Distillation via Factorization**
+**[Dataset Distillation via Factorization](https://arxiv.org/abs/2210.16774)**
 
 *Songhua Liu, Kai Wang, Xingyi Yang, Jingwen Ye, and Xinchao Wang.*
 
