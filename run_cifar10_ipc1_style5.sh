@@ -1,7 +1,6 @@
 python distill_fac.py \
 --dataset=CIFAR10 \
---ipc=3 \
---single_channel \
+--ipc=1 \
 --n_style=5 \
 --syn_steps=50 \
 --expert_epochs=2 \
